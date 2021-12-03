@@ -8,7 +8,7 @@ To write to find the distance between two points
 ### Step 2: 
 Assign the given values in a list.
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](./formula.jpg)
+Substitute the values in the distance formula  ![formula](/formula.jpg)
 ### Step 4: 
 using the distance formula to calculate the distance between two points. 
 ### Step 5:
